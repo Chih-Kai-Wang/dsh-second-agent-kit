@@ -19,7 +19,7 @@
 需要 macOS 14 以上、Node 24、DSH 0.1.5-rc.2，以及既有的 workspace-write／ask 權限模式。請先在獨立的測試 profile 中驗證。
 
 ```sh
-git clone https://github.com/f0909172434/dsh-second-agent-kit.git
+git clone https://github.com/Chih-Kai-Wang/dsh-second-agent-kit.git
 cd dsh-second-agent-kit
 npm ci
 npm test

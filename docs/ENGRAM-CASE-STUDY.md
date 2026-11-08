@@ -48,7 +48,7 @@ The real host test loads a disposable `cordis.yml`. Workspace/session input reco
 
 ## Public review and reproduction
 
-- [Implementation PR](https://github.com/f0909172434/dsh-second-agent-kit/pull/1)
+- [Implementation PR](https://github.com/Chih-Kai-Wang/dsh-second-agent-kit/pull/1)
 - [Upstream design discussion](https://github.com/kenz1117/dsh-engram/issues/3)
 - [Upgrade instructions](ENGRAM-UPGRADE.md)
 - [Upstream reproducer patch](upstream/engram-legacy-migration.patch)
